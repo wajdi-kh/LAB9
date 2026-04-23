@@ -110,14 +110,3 @@ jupyter notebook
 * Seaborn
 * Scikit-learn
 
----
-
-## Author
-
-* Your Name
-
----
-
-## License
-
-This project is for educational purposes.
